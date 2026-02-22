@@ -27,10 +27,3 @@
     "postcss": "^8.0.0"
   }
 }
-```
-
-Ctrl+S, cierra. Luego en el terminal:
-```
-git add .
-git commit -m "fix package.json"
-git push
